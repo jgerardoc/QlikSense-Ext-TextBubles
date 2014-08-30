@@ -1,0 +1,9 @@
+{
+	"name" : "Text Bubles",
+	"description" : "Text Bubles Extension",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "TextBubles.png",
+	"author": "Juan Gerardo Cabeza"
+}

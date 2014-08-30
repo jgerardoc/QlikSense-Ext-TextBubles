@@ -1,0 +1,13 @@
+.qv-object-textbubles text {
+  font: 24px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-anchor: middle;
+  pointer-events: none;
+}
+
+.qv-object-textbubles circle {
+  fill: #ccc;
+}
+
+.qv-object-textbubles .node:hover circle {
+  fill: orange;
+}
